@@ -1,6 +1,7 @@
 # How to Prepare for GCP-PCA Exam on Professional Cloud Architect?
 Start Here---> https://bit.ly/3bGEd9l &lt;---Get complete detail on GCP-PCA exam guide to crack Professional Cloud Architect. You can collect all information on GCP-PCA tutorial, practice test, books, study material, exam questions, and syllabus. Firm your knowledge on Professional Cloud Architect and get ready to crack GCP-PCA certification. Explore all information on GCP-PCA exam with the number of questions, passing percentage, and time duration to complete the test.
 
+![How to Prepare for Google Professional Cloud Architect (GCP-PCA)Certification Exam](https://user-images.githubusercontent.com/89568654/136014160-f72e08d5-178b-457b-87fd-34a231a5479c.png)
 
 Google Cloud certification is quite important to open up new vistas of opportunities in your professional career.
 It all begins with credibility. The moment your prospective employer will see
