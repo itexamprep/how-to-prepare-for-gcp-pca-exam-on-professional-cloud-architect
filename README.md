@@ -235,7 +235,7 @@ details if you desire to have it in the name of your company.</span></span></li>
 
 
 
-<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/Vk6ghNWr73E" width="320" youtube-src-id="Vk6ghNWr73E"></iframe></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
 
 <h3 style="border: none; mso-border-shadow: yes; mso-padding-alt: 31.0pt 31.0pt 31.0pt 31.0pt;"><span style="font-family: arial;"><a name="_2imp5llsd13z"></a><span lang="EN" style="color: black; font-size: 16pt; line-height: 115%;">GCP-PCA Exam Registration:</span><span lang="EN"><o:p></o:p></span></span></h3>
 
@@ -248,4 +248,3 @@ Professional Cloud Architect GCP-PCA certification exam</span></b></a> will
 become a cakewalk for you if you keep the above-mentioned things in mind.
 Remember time is money and the earlier you begin, the better it will be for
 you.</span><o:p></o:p></span></p>
-<iframe allowtransparency="true" frameborder="0" height="800" id="interactApp6149af99ba317f0018019402" src="https://quiz.tryinteract.com/#/6149af99ba317f0018019402?method=iframe" style="border: none; margin: 0; max-width: 100%;" width="800"></iframe>
